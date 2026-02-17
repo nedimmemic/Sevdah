@@ -107,7 +107,9 @@ def ucitaj_pjesme():
             pjesme = data.get('pjesme', [])
         
         try:
-            with open('sevdalinke_tekstovi.txt', 'r', encoding='utf-8') as f:
+            import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(BASE_DIR, 'sevdalinke.json'), 'r', encoding='utf-8') as f:
                 txt_sadrzaj = f.read()
             
             tekstovi = parsiraj_tekstove(txt_sadrzaj)
