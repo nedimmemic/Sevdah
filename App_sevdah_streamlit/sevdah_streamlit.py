@@ -10,6 +10,9 @@ from wordcloud import WordCloud
 from textblob import TextBlob
 from collections import Counter
 import re
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # PAGE CONFIG
 st.set_page_config(
@@ -102,14 +105,12 @@ def parsiraj_tekstove(txt_sadrzaj):
 def ucitaj_pjesme():
     """Učitava pjesme iz JSON i TXT fajla"""
     try:
-        with open('sevdalinke.json', 'r', encoding='utf-8') as f:
+        with open(os.path.join(BASE_DIR, 'sevdalinke.json'), 'r', encoding='utf-8') as f:
             data = json.load(f)
             pjesme = data.get('pjesme', [])
         
         try:
-            import os
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-with open(os.path.join(BASE_DIR, 'sevdalinke.json'), 'r', encoding='utf-8') as f:
+            with open(os.path.join(BASE_DIR, 'sevdalinke_tekstovi.txt'), 'r', encoding='utf-8') as f:
                 txt_sadrzaj = f.read()
             
             tekstovi = parsiraj_tekstove(txt_sadrzaj)
@@ -139,7 +140,7 @@ def clean_word(word):
 def ucitaj_stopwords():
     """Učitava stopwords"""
     try:
-        with open('stopwords.txt', 'r', encoding='utf-8') as f:
+        with open(os.path.join(BASE_DIR, 'stopwords.txt'), 'r', encoding='utf-8') as f:
             raw_stopwords = f.read().splitlines()
         return set(clean_word(w) for w in raw_stopwords if w.strip())
     except FileNotFoundError:
@@ -176,10 +177,8 @@ def main():
     with st.sidebar:
         st.header("📋 Izbor Pjesme")
         
-        # Filter
         filter_omiljene = st.checkbox("⭐ Samo omiljene", value=False)
         
-        # Lista pjesama
         if filter_omiljene:
             lista_pjesama = [p for p in pjesme if p['naslov'] in st.session_state.omiljene]
         else:
@@ -189,7 +188,6 @@ def main():
             st.warning("Nema omiljenih pjesama")
             lista_pjesama = pjesme
         
-        # Selectbox
         izbor = st.selectbox(
             "Izaberi pjesmu:",
             lista_pjesama,
@@ -203,7 +201,6 @@ def main():
     if izbor:
         trenutna = izbor
         
-        # TABS
         tab1, tab2, tab3, tab4 = st.tabs(["📋 Pjesma", "💭 Sentiment", "📊 Statistika", "ℹ️ O nama"])
         
         # TAB 1: PJESMA
@@ -211,7 +208,6 @@ def main():
             st.markdown(f"## {trenutna['naslov']}")
             st.markdown(f"**Autor:** {trenutna['autor']} | **Izvođač:** {trenutna['izvodjac']}")
             
-            # Buttons
             col1, col2, col3, col4 = st.columns(4)
             
             with col1:
@@ -248,7 +244,6 @@ def main():
             
             st.markdown("---")
             
-            # Tekst pjesme
             st.text_area(
                 "📝 Tekst pjesme:",
                 trenutna['tekst'],
@@ -285,7 +280,6 @@ def main():
                         st.markdown(f"### {ikona} Sentiment: **{sentiment:.3f}**")
                         st.markdown(f"**Kategorija:** :{boja}[{oznaka}]")
                         
-                        # Top riječi
                         stopwords = ucitaj_stopwords()
                         words = [clean_word(w) for w in tekst.split()]
                         words = [w for w in words if w and w not in stopwords]
@@ -325,7 +319,6 @@ def main():
         with tab3:
             st.header("📊 Statistika Sevdalinki")
             
-            # Osnovna statistika
             col1, col2 = st.columns(2)
             
             with col1:
@@ -340,7 +333,6 @@ def main():
             
             st.markdown("---")
             
-            # Top autori
             st.subheader("✍️ Top 10 Autora")
             top_autori = autori.most_common(10)
             
@@ -355,7 +347,6 @@ def main():
             
             st.markdown("---")
             
-            # Top izvođači
             st.subheader("🎤 Top 10 Izvođača")
             top_izvodjaci = izvodjaci.most_common(10)
             
@@ -373,11 +364,10 @@ def main():
             st.header("ℹ️ O Aplikaciji")
             
             try:
-                with open('o_nama.txt', 'r', encoding='utf-8') as f:
+                with open(os.path.join(BASE_DIR, 'o_nama.txt'), 'r', encoding='utf-8') as f:
                     o_nama_tekst = f.read()
                 st.markdown(o_nama_tekst)
             except FileNotFoundError:
-                st.warning("Fajl o_nama.txt ne postoji")
                 st.markdown("""
                 ### 🎵 SEVDAH - Aplikacija za Sevdalinke
                 
