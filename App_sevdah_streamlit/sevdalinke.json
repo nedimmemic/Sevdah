@@ -1,0 +1,372 @@
+{
+  "pjesme": [
+    {
+      "naslov": "Emina",
+      "autor": "Aleksa Šantić",
+      "opjevan_a": "Emina",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://hr.wikipedia.org/wiki/Emina_(sevdalinka)",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+emina"
+    },
+    {
+      "naslov": "Čudna jada od Mostara grada",
+      "autor": "Narodna",
+      "opjevan_a": "Čelebićča Biba",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://express.ba/kolumne/111228/prica-o-pjesmi-cudna-jada-od-mostara-grada/",
+      "video_url": "https://www.youtube.com/watch?v=zgo1pWoOcxI&list=RDzgo1pWoOcxI&start_radio=1"
+    },
+    {
+      "naslov": "Kad ja pođoh na Bembašu",
+      "autor": "Narodna",
+      "opjevan_a": "moja mila draga",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://sr.wikipedia.org/sr-el/%D0%9A%D0%B0%D0%B4_%D1%98%D0%B0_%D0%BF%D0%BE%D1%92%D0%BE%D1%85_%D0%BD%D0%B0_%D0%91%D0%B5%D0%BC%D0%B1%D0%B0%D1%88%D1%83",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+kad+ja+podoh+na+bembasu"
+    },
+    {
+      "naslov": "Dvore gradi Komadina Mujo",
+      "autor": "Narodna",
+      "opjevan_a": "Zaimova Ziba",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://ljubusaci.com/2016/01/20/bosanska-sevdalinka-dvore-gradi-komadina-mujo/",
+      "video_url": "https://www.youtube.com/watch?v=IGhQlk-3dSM&list=RDIGhQlk-3dSM&start_radio=1"
+    },
+    {
+      "naslov": "Kraj tanana šadrvana",
+      "autor": "Narodna",
+      "opjevan_a": "sultanova kćerka mila",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+kraj+tanana+sadrvana"
+    },
+    {
+      "naslov": "Moj dilbere",
+      "autor": "Narodna",
+      "opjevan_a": "dilber",
+      "izvodjac": "Amira Medunjanin",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+moj+dilbere"
+    },
+    {
+      "naslov": "Oj djevojko, džidžo moja",
+      "autor": "Narodna",
+      "opjevan_a": "džidža moja",
+      "izvodjac": "Beba Selimović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+oj+djevojko+džidžo+moja"
+    },
+    {
+      "naslov": "Bosno moja poharana",
+      "autor": "Narodna",
+      "opjevan_a": "Bosna",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Bosno_moja_poharana",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+bosno+moja+poharana"
+    },
+    {
+      "naslov": "Bosno moja, divna, mila",
+      "autor": "Narodna",
+      "opjevan_a": "Bosna",
+      "izvodjac": "Nada Mamula",
+      "info_url": "https://bs.wikipedia.org/wiki/Bosno_moja_divna_mila",
+      "video_url": "https://www.youtube.com/watch?v=1wv-zbrL4B0"
+    },
+      {
+      "naslov": "U lijepom starom gradu Višegradu",
+      "autor": "Narodna",
+      "opjevan_a": "draga",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+u+lijepom+starom+gradu+višegradu"
+    },
+    {
+      "naslov": "U Stambolu na Bosforu",
+      "autor": "Narodna",
+      "opjevan_a": "pašinica",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+u+stambolu+na+bosforu"
+    },
+    {
+      "naslov": "Snijeg pade na behar na voće",
+      "autor": "Narodna",
+      "opjevan_a": "nema",
+      "izvodjac": "Amira Medunjanin",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+snijeg+padne+na+behar+na+voće"
+    },
+    {
+      "naslov": "Dvije su se vode zavadile",
+      "autor": "Narodna",
+      "opjevan_a": "Drina i Ćehotina",
+      "izvodjac": "Zehra Deović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+dvije+su+se+vode+zavadile"
+    },
+    {
+      "naslov": "Zapjevala sojka ptica",
+      "autor": "Narodna",
+      "opjevan_a": "Fata",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+zapjevala+sojka+ptica"
+    },
+    {
+      "naslov": "Omer-beže na kuli sjeđaše",
+      "autor": "Narodna",
+      "opjevan_a": "vjerna ljuba",
+      "izvodjac": "Josipa Lisac",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+omer-beže+na+kuli+sježaše"
+    },
+    {
+      "naslov": "Oj Safete",
+      "autor": "Narodna",
+      "opjevan_a": "kona",
+      "izvodjac": "Safet Isović i Nada Mamula",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+oj+safete"
+    },
+    {
+      "naslov": "Na prijestolju sjedi sultan",
+      "autor": "Narodna",
+      "opjevan_a": "seja",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+na+prijestolju+sjedi+sultan"
+    },
+    {
+      "naslov": "Put putuje Latif-aga",
+      "autor": "Narodna",
+      "opjevan_a": "lijepa Fata Mujagića",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+put+putuje+latif-aga"
+    },
+    {
+      "naslov": "Telal viče od jutra do mraka",
+      "autor": "Narodna",
+      "opjevan_a": "pašina robinja",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+telal+vice+od+jutra+do+mraka"
+    },
+    {
+      "naslov": "Žute dunje",
+      "autor": "Narodna",
+      "opjevan_a": "lijepa Fatma",
+      "izvodjac": "Indexi",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+žute+dunje"
+    },
+    {
+      "naslov": "Mujo kuje konja po mjesecu",
+      "autor": "Narodna",
+      "opjevan_a": "draga",
+      "izvodjac": "Indexi",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+mujo+kuje+konja+po+mjesecu"
+    },
+    {
+      "naslov": "Što te nema",
+      "autor": "Narodna",
+      "opjevan_a": "nema",
+      "izvodjac": "Amira Medunjanin",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+što+te+nema"
+    },
+    {
+      "naslov": "Sejdefu majka buđaše",
+      "autor": "Narodna",
+      "opjevan_a": "Sejdefa",
+      "izvodjac": "Amira Medunjanin",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=nnjFrKI5heY"
+    },
+    {
+      "naslov": "Zmaj od Bosne",
+      "autor": "Narodna",
+      "opjevan_a": "vjerna ljuba",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+zmaj+od+bosne"
+    },
+    {
+      "naslov": "U đul bašći",
+      "autor": "Narodna",
+      "opjevan_a": "cura fina",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+u+džul+basći"
+    },
+    {
+      "naslov": "Kiša bi pala",
+      "autor": "Narodna",
+      "opjevan_a": "Ibrahim-beg",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+kiša+bi+pala"
+    },
+    {
+      "naslov": "Lijepi li su Mostarski dućani",
+      "autor": "Narodna",
+      "opjevan_a": "Suljagina Fata",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+lijepi+li+su+mostarski+dućani"
+    },
+    {
+      "naslov": "Jutros mi je ruža procvjetala",
+      "autor": "Narodna",
+      "opjevan_a": "nema",
+      "izvodjac": "Himzo Polovina",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+jutrosd+mi+je+ruža+procvjetala"
+    },
+    {
+      "naslov": "Grana od bora",
+      "autor": "Narodna",
+      "opjevan_a": "Marica",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+grana+od+bora"
+    },
+    {
+      "naslov": "Da sam ptica",
+      "autor": "Narodna",
+      "opjevan_a": "Bosna",
+      "izvodjac": "Zehra Deović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+da+sam+ptica"
+    },
+    {
+      "naslov": "Još ne sviće rujna zora",
+      "autor": "Narodna",
+      "opjevan_a": "nema",
+      "izvodjac": "Bora Spužić Kvaka",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+jos+ne+svice+rujna+zora"
+    },
+    {
+      "naslov": "Braća Morići",
+      "autor": "Narodna",
+      "opjevan_a": "dva brata Morića",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://historija.info/braca-moric/",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+braca+morici"
+    },
+    {
+      "naslov": "Đul Zulejha",
+      "autor": "Narodna",
+      "opjevan_a": "Zulejha",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/results?search_query=sevdalinka+djul+zulejha"
+    },
+    {
+      "naslov": "Aj mene majka jednu ima",
+      "autor": "Narodna",
+      "opjevan_a": "Alija Sevlija",
+      "izvodjac": "Divanhana",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=qLpjYuyRRIU"
+    },
+    {
+      "naslov": "Haj od kako je Banja Luka postala",
+      "autor": "Narodna",
+      "opjevan_a": "Džafer Bega Kaduna",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=SN7hI6x0C0c"
+    },
+    {
+      "naslov": "Sa Gradačca Bijele Kule",
+      "autor": "Narodna",
+      "opjevan_a": "vjerna ljuba",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=I1UxKJgqVSo&list=RDI1UxKJgqVSo&start_radio=1"
+    },
+    {
+      "naslov": "Kad sretneš Hanku",
+      "autor": "Narodna",
+      "opjevan_a": "Hanka",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=I1UxKJgqVSo&list=RDI1UxKJgqVSo&start_radio=1"
+    },
+    {
+      "naslov": "Hanuma",
+      "autor": "Narodna",
+      "opjevan_a": "Hanuma",
+      "izvodjac": "Šaban Bajramović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=njHhN5voy6M&list=RDPBuWnDuu4Ok&index=8"
+    },
+    {
+      "naslov": "Ah, moj doro",
+      "autor": "Narodna",
+      "opjevan_a": "doro",
+      "izvodjac": "Zaim Imamović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=DXEhboHenFM"
+    },
+    {
+      "naslov": "Ko se jednom napije",
+      "autor": "Narodna",
+      "opjevan_a": "Bašćaršija",
+      "izvodjac": "Safet Isović",
+      "info_url": "https://mostarski.ba/ko-se-jednom-napije-vode-sa-bascarsije-legenda-o-sarajevskoj-cesmi/",
+      "video_url": "https://www.youtube.com/watch?v=4px_lHotuKU"
+    },
+    {
+      "naslov": "Zv'jezda tjera mjeseca",
+      "autor": "Narodna",
+      "opjevan_a": "curica",
+      "izvodjac": "Safet Isović i Zaim Imamović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=cjILRnduMko"
+    },
+    {
+      "naslov": "Hajde dušo da ašikujemo",
+      "autor": "Narodna",
+      "opjevan_a": "duša",
+      "izvodjac": "Safet Isović i Beba Selomović",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=zz4T5UffwF8"
+    },
+    {
+      "naslov": "Vranjanka",
+      "autor": "Narodna",
+      "opjevan_a": "Lela Vranjanka",
+      "izvodjac": "Mostar Sevdah Reunion",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=SNhuVPfHxUI&list=RDSNhuVPfHxUI&start_radio=1"
+    },
+    {
+      "naslov": "Mi smo divovi",
+      "autor": "Benjamin Isović",
+      "opjevan_a": "Pitare",
+      "izvodjac": "Benjamin Isović",
+      "info_url": "https://en.wikipedia.org/wiki/Mi_smo_divovi",
+      "video_url": "https://www.youtube.com/watch?v=1ryJqXjtrg4"
+    },
+    {
+      "naslov": "Kad ga zabi Matko",
+      "autor": "Benjamin Isović",
+      "opjevan_a": "Pitare",
+      "izvodjac": "Benjamin Isović",
+      "info_url": "https://bs.wikipedia.org/wiki/FK_Sarajevo",
+      "video_url": "https://www.youtube.com/watch?v=yq2bn0K7lBc"
+    },
+    {
+      "naslov": "AI created",
+      "autor": "Narodna",
+      "opjevan_a": "nema",
+      "izvodjac": "Očekivano AI",
+      "info_url": "https://bs.wikipedia.org/wiki/Sevdalinka",
+      "video_url": "https://www.youtube.com/watch?v=MI6mq8cw0uw"
+    }
+    ]
+}
